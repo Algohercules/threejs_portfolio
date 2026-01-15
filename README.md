@@ -1,16 +1,22 @@
-# React + Vite
+live website link here: https://ephemeral-snickerdoodle-dd7c34.netlify.app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+🚀 Just Deployed My 3D Portfolio Website! 🎉
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+After a lot of learning, debugging, and experimenting, I’m excited to share that my 3D portfolio website is now live ✅
 
-## React Compiler
+This project was a great hands-on experience where I worked on:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+ ✨ Smooth 3D animations
 
-## Expanding the ESLint configuration
+ 🎨 Modern responsive UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+ ⚡ Performance optimization
+
+ 📩 Contact section integration
+
+Building this helped me improve my skills in frontend development and learn how to deploy a complete project properly.
+
+I’d really appreciate your feedback and suggestions 🙌
+
+ #WebDevelopment #FrontendDevelopment #Portfolio #ThreeJS #ReactJS #Developer #Projects #Learning
