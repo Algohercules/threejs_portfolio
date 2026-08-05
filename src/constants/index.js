@@ -24,45 +24,45 @@ export const navLinks = [
 export const clientReviews = [
   {
     id: 1,
-    name: 'Emily Johnson',
-    position: 'Marketing Director at GreenLeaf',
+    name: 'Mr. Priyansh Rai',
+    position: 'Associate manager at Exeliq tech solutions',
     img: 'assets/review1.png',
     review:
-      'Working with Adrian was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.',
+      'Working with Adarsh was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.',
   },
   {
     id: 2,
-    name: 'Mark Rogers',
-    position: 'Founder of TechGear Shop',
+    name: 'Mr. KB Dubey',
+    position: 'Student coordinator at ABESIT',
     img: 'assets/review2.png',
     review:
-      'Adrian’s expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He’s a true professional! Fantastic work.',
+      'Adarsh’s expertise in web development is truly impressive. He delivered a robust and scalable solution for our college website, and our online reach have significantly increased since the launch. He’s a true professional! Fantastic work.',
   },
   {
     id: 3,
-    name: 'John Dohsas',
-    position: 'Project Manager at UrbanTech ',
+    name: 'Mr. Adarsh Kumar Verma',
+    position: 'Coordinator of LDL (Light-De-Literacy)',
     img: 'assets/review3.png',
     review:
-      'I can’t say enough good things about Adrian. He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding.',
+      'I can’t say enough good things about Adarsh. He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding.',
   },
   {
     id: 4,
-    name: 'Ether Smith',
-    position: 'CEO of BrightStar Enterprises',
+    name: 'Ms. Aanya Soni',
+    position: 'IIC COordinator at ABESIT',
     img: 'assets/review4.png',
     review:
-      'Adrian was a pleasure to work with. He understood our requirements perfectly and delivered a website that exceeded our expectations. His skills in both frontend backend dev are top-notch.',
+      'Adarsh was a pleasure to work with. He understood our requirements perfectly and delivered a website that exceeded our expectations. His skills in both frontend backend dev are top-notch.',
   },
 ];
 
 export const myProjects = [
   {
-    title: 'Podcastr - AI Podcast Platform',
-    desc: 'Podcastr is a revolutionary Software-as-a-Service platform that transforms the way podcasts are created. With advanced AI-powered features like text-to-multiple-voices functionality, it allows creators to generate diverse voiceovers from a single text input.',
+    title: 'Pathfinding & Maze Visualiser',
+    desc: 'Built a web app to visualize algorithms like BFS, DFS, Dijkstra, A*, and JPS with real-time animation and dynamic interaction,Added maze generators (Backtracking, Prims, Kruskals) and intuitive drag-drop UI for start/end nodes and wall drawing,Used Redux for state management and Tailwind CSS for responsive styling, deployed the project live using Vercel platform,Visualizes algorithm performance and pathfinding logic, enabling user to intuitively compare traversal strategies in real time',
     subdesc:
-      'Built as a unique Software-as-a-Service app with Next.js 14, Tailwind CSS, TypeScript, Framer Motion and Convex, Podcastr is designed for optimal performance and scalability.',
-    href: 'https://www.youtube.com/watch?v=zfAb95tJvZQ',
+      ' Self Project [React | TypeScript | Tailwind | Redux Toolkit ]',
+    href: 'https://github.com/whitedevil2829/Pathfinding_Visualiser.git',
     texture: '/textures/project/project1.mp4',
     logo: '/assets/project-logo1.png',
     logoStyle: {
@@ -95,11 +95,11 @@ export const myProjects = [
     ],
   },
   {
-    title: 'LiveDoc - Real-Time Google Docs Clone',
-    desc: 'LiveDoc is a powerful collaborative app that elevates the capabilities of real-time document editing. As an enhanced version of Google Docs, It supports millions of collaborators simultaneously, ensuring that every change is captured instantly and accurately.',
+    title: 'Student Record Management System',
+    desc: 'Built an efficient C++ app to manage student records via CSV/Excel files, significantly reducing manual workload,Implemented dual-role access: Admins can create/update/delete records; Students can securely,view and access their data,Added login authentication, real-time CSV I/O handling, and structured console UI with menus,and load indicators,Enhanced the usability through prompt-based navigation, robust input validation, and features essential for academic use Crash',
     subdesc:
-      'With LiveDoc, users can experience the future of collaboration, where multiple contributors work together in real time without any lag, by using Next.js and Liveblocks newest features.',
-    href: 'https://www.youtube.com/watch?v=y5vE8y_f_OM',
+      ' Self Project [C++ File I/O Windows Desktop]',
+    href: 'https://github.com/whitedevil2829/Student_Management_Sys.git',
     texture: '/textures/project/project2.mp4',
     logo: '/assets/project-logo2.png',
     logoStyle: {
@@ -132,11 +132,11 @@ export const myProjects = [
     ],
   },
   {
-    title: 'CarePulse - Health Management System',
-    desc: 'An innovative healthcare platform designed to streamline essential medical processes. It simplifies patient registration, appointment scheduling, and medical record management, providing a seamless experience for both healthcare providers and patients.',
+    title: 'Severity Prediction using ML for Public Safety',
+    desc: 'Developed a machine learning model to classify crash severity (minor, major, fatal) using historical data and traffic patterns,Engineered features like speed bins, lane widths, and overspeeding indicators; optimized model efficiently using Optuna,Achieved high classification accuracy using ensemble methods (Random Forest, XGBoost, CatBoost) and tuned with EDA,Proposed practical data-driven interventions (dynamic speed limits, dedicated lanes) to significantly improve the road safety',
     subdesc:
-      'With a focus on efficiency, CarePulse integrantes complex forms and SMS notifications, by using Next.js, Appwrite, Twillio and Sentry that enhance operational workflows.',
-    href: 'https://www.youtube.com/watch?v=lEflo_sc82g',
+      ' Self Project [Optuna | Random Forest | XGBoost',
+    href: 'https://github.com/Algohercules/CrashIQ.git',
     texture: '/textures/project/project3.mp4',
     logo: '/assets/project-logo3.png',
     logoStyle: {
@@ -171,11 +171,9 @@ export const myProjects = [
     ],
   },
   {
-    title: 'Horizon - Online Banking Platform',
-    desc: 'Horizon is a comprehensive online banking platform that offers users a centralized finance management dashboard. It allows users to connect multiple bank accounts, monitor real-time transactions, and seamlessly transfer money to other users.',
-    subdesc:
-      'Built with Next.js 14 Appwrite, Dwolla and Plaid, Horizon ensures a smooth and secure banking experience, tailored to meet the needs of modern consumers.',
-    href: 'https://www.youtube.com/watch?v=PuOVqP_cjkE',
+    title: ' Crowdsourced Civic lssue Reporting and Resolution System',
+    desc: 'The final deliverable should include a mobile platform that supports cross-device functionality and seamless user experience. Citizens must be able to capture issues effortlessly, track the progress of their reports, and receive notifications through each stage — confirmation, acknowledgment, and resolution. On the back end, a web-based administrative portal should enable municipal staff to filter issues by category, location, or priority, assign tasks, update statuses, and communicate progress. The platform should integrate an automated routing engine that leverages report metadata to correctly allocate tasks to departments. A scalable, resilient backend must manage high volumes of multimedia content, support concurrent users, and provide APIs for future integrations or extensions. Lastly, the solution should deliver analytics and reporting features that offer insights into reporting trends, departmental response times, and overall system effectiveness — ultimately driving better civic engagement and government accountability. Organization Government of Jharkhand Department Department of Higher and Technical Education Category Software Theme Clean & Green Technology',
+    href: 'https://github.com/Algohercules/SIH-2025.git',
     texture: '/textures/project/project4.mp4',
     logo: '/assets/project-logo4.png',
     logoStyle: {
@@ -208,11 +206,11 @@ export const myProjects = [
     ],
   },
   {
-    title: 'Imaginify - AI Photo Manipulation App',
-    desc: 'Imaginify is a groundbreaking Software-as-a-Service application that empowers users to create stunning photo manipulations using AI technology. With features like AI-driven image editing, a payments system, and a credits-based model.',
+    title: 'AudioLink',
+    desc: 'Developed an application that enables a phone or laptop to connect and manage multiple Bluetooth devices from a single interface. The application streamlines device discovery, pairing, and connection management, allowing users to monitor and interact with several Bluetooth peripherals simultaneously.',
     subdesc:
-      'Built with Next.js 14, Cloudinary AI, Clerk, and Stripe, Imaginify combines cutting-edge technology with a user-centric approach. It can be turned into a side income or even a full-fledged business.',
-    href: 'https://www.youtube.com/watch?v=Ahwoks_dawU',
+      ' Self Project [React | TypeScript | Tailwind | Redux Toolkit ]',
+    href: 'https://github.com/Algohercules/AudioLink.git',
     texture: '/textures/project/project5.mp4',
     logo: '/assets/project-logo5.png',
     logoStyle: {
@@ -260,28 +258,28 @@ export const calculateSizes = (isSmall, isMobile, isTablet) => {
 export const workExperiences = [
   {
     id: 1,
-    name: 'Framer',
-    pos: 'Lead Web Developer',
-    duration: '2022 - Present',
-    title: "Framer serves as my go-to tool for creating interactive prototypes. I use it to bring designs to  life, allowing stakeholders to experience the user flow and interactions before development.",
+    name: 'Exeliq Tech Solutions',
+    pos: 'Full Stack Web Developer',
+    duration: '2026 june - july',
+    title: "Developed responsive, user-friendly web application interfaces using modern technologies (HTML, CSS, JavaScript, React) Assisted in backend development and RESTful API integration to support full-stack application functionality Worked with relational/NoSQL databases for efficient data storage, retrieval, and management, Utilized Git and GitHub for version control, collaborative development, and code management,Participated in requirement analysis, code reviews, and debugging sessions to ensure high-quality deliverables,Followed industry-standard software engineering practices, coding conventions, and technical documentation procedures.",
     icon: '/assets/framer.svg',
     animation: 'victory',
   },
   {
     id: 2,
-    name: 'Figma',
-    pos: 'Web Developer',
-    duration: '2020 - 2022',
-    title: "Figma is my collaborative design platform of choice. I utilize it to work seamlessly with team members and clients, facilitating real-time feedback and design iterations. Its cloud-based.",
+    name: 'CODSOFT',
+    pos: 'C++ Developer',
+    duration: '2025 - 2026',
+    title: "Worked on developing and optimizing C++ applications while applying object-oriented programming principles, data structures, and algorithms. Collaborated on debugging, testing, and implementing efficient solutions, gaining hands-on experience in writing clean, maintainable, and high-performance code.",
     icon: '/assets/figma.svg',
     animation: 'clapping',
   },
   {
     id: 3,
-    name: 'Notion',
-    pos: 'Junior Web Developer',
+    name: 'Light-De-Literacy (LDL)',
+    pos: 'Student Coordinator',
     duration: '2019 - 2020',
-    title: "Notion helps me keep my projects organized. I use it for project management, task tracking, and as a central hub for documentation, ensuring that everything from design notes to.",
+    title: "Volunteered with an NGO dedicated to providing free education to underprivileged students. Conducted engaging learning sessions, mentored students, and helped create a supportive environment that encouraged academic growth and confidence while contributing to the organization's mission of making quality education accessible to all.",
     icon: '/assets/notion.svg',
     animation: 'salute',
   },
