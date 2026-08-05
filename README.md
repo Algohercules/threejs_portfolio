@@ -1,4 +1,4 @@
-live website link here: https://ephemeral-snickerdoodle-dd7c34.netlify.app
+live website link here: https://extraordinary-queijadas-cbaac3.netlify.app/
 
 
 🚀 Just Deployed My 3D Portfolio Website! 🎉
