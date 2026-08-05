@@ -26,11 +26,6 @@ const About = () => {
               <p className="grid-headtext">Hi, I’m  Adarsh</p>
               <p className="grid-subtext">
 I'm Adarsh Rai, a Computer Science undergraduate at ABES Institute of Technology (CGPA: 8.2) and a Full Stack Developer Intern who believes the best code solves a problem someone can actually feel. During my internship at Exeliq Tech Solutions, I worked across the stack — building responsive interfaces with React and JavaScript, integrating REST APIs, and collaborating through Git/GitHub in a real development workflow with code reviews and debugging sessions.
- 
-Outside of internships, I build things that make abstract ideas tangible:
- 🔹 A Pathfinding & Maze Visualizer (React, TypeScript, Redux Toolkit) that turns algorithms like Dijkstra, A*, and JPS into real-time, interactive animations — deployed live on Vercel.
- 🔹 A Student Record Management System (C++) with dual-role authentication, reducing manual record-handling workload for academic use.
- 🔹 An ML-based Crash Severity Predictor that translates traffic data into practical, data-driven safety interventions.
               </p>
             </div>
           </div>
