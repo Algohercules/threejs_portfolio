@@ -25,9 +25,22 @@ const About = () => {
             <div>
               <p className="grid-headtext">Hi, I’m  Adarsh</p>
               <p className="grid-subtext">
-                 Being a B.Tech. student, specializing in Computer Science Engineering, I am driven by a passion for innovation and technology. I am committed to continuous learning and collaboration, always seeking opportunities to contribute to impactful solutions. 
-
-                🌐 beyond my academic qualifications As a content writer ✏️, I excel at articulating complex concepts clearly and compellingly. 🚀 I am eager to leverage my diverse skill set to create meaningful advancements in the real life problems.........
+                Every road accident is a data point before it's a tragedy — that's the problem I set out to tackle in my machine learning project, where I built a crash-severity prediction model using Random Forest and XGBoost, tuned with Optuna, to help identify high-risk conditions before they turn fatal.
+ 
+I'm Adarsh Rai, a Computer Science undergraduate at ABES Institute of Technology (CGPA: 8.2) and a Full Stack Developer Intern who believes the best code solves a problem someone can actually feel. During my internship at Exeliq Tech Solutions, I worked across the stack — building responsive interfaces with React and JavaScript, integrating REST APIs, and collaborating through Git/GitHub in a real development workflow with code reviews and debugging sessions.
+ 
+Outside of internships, I build things that make abstract ideas tangible:
+ 🔹 A Pathfinding & Maze Visualizer (React, TypeScript, Redux Toolkit) that turns algorithms like Dijkstra, A*, and JPS into real-time, interactive animations — deployed live on Vercel.
+ 🔹 A Student Record Management System (C++) with dual-role authentication, reducing manual record-handling workload for academic use.
+ 🔹 An ML-based Crash Severity Predictor that translates traffic data into practical, data-driven safety interventions.
+ 
+I bring the same mindset to every project: understand the real-world problem first, then choose the right tools — whether that's React for a UI challenge or XGBoost for a prediction problem.
+ 
+Beyond development, I've mentored underprivileged students as a Coordinator for Light-De-Literacy at ABESIT, and I hold a 90.31 percentile in JEE Main 2023 — proof of the same consistency and problem-solving rigor I bring to code.
+ 
+What's next: I'm actively seeking Software Development Engineer (SDE) / Full Stack Developer internships where I can contribute to production-scale systems, sharpen my backend and system design skills, and keep building software that solves problems people actually have.
+ 
+📩 Let's connect — open to internships, collaboration, and conversations about full stack development, machine learning, or building things that matter
               </p>
             </div>
           </div>
@@ -42,6 +55,43 @@ const About = () => {
               <p className="grid-subtext">
                 I specialize in a variety of languages, frameworks, and tools that allow me to build robust and scalable
                 applications
+
+               
+🚀 Tech Stack & Expertise
+
+💻 Programming Languages :
+
+ C++ – Strong foundation in object-oriented programming, problem-solving, and implementing   efficient algorithms.
+ JavaScript – Experienced in building dynamic, interactive, and responsive web applications.
+ TypeScript – Skilled in developing scalable applications with type safety and improved code maintainability.
+ Python – Comfortable using Python for scripting, automation, and solving algorithmic problems.
+
+🎨 Frontend Development
+
+React.js – Build modern, responsive, and component-based user interfaces with reusable components and state management.
+HTML5 & CSS3 – Create clean, accessible, and responsive web pages with modern layouts and styling techniques.
+
+⚙️ Backend Development
+Node.js – Develop fast and scalable server-side applications with asynchronous programming.
+REST APIs – Design, develop, and integrate secure RESTful APIs for seamless communication between frontend and backend systems.
+
+🗄️ Databases
+MongoDB – Design and manage NoSQL databases with efficient document-based data modeling.
+SQL – Write optimized queries, manage relational databases, and ensure data integrity.
+
+🧠 Computer Science Fundamentals
+Data Structures & Algorithms (DSA) – Strong understanding of arrays, linked lists, trees, graphs, dynamic programming, greedy algorithms, and other problem-solving techniques.
+Object-Oriented Programming (OOP) – Proficient in designing modular, reusable, and maintainable software using core OOP principles.
+System Design (HLD & LLD) – Familiar with designing scalable, reliable, and maintainable software systems through High-Level Design and Low-Level Design principles.
+
+🛠️ Tools & Version Control
+Git – Efficiently manage source code, branching, merging, and collaborative development workflows.
+GitHub – Host repositories, collaborate on projects, manage pull requests, and maintain version history effectively.
+
+🌟 What I Bring
+I enjoy transforming ideas into real-world applications by combining strong problem-solving skills with modern web technologies. I'm passionate about writing clean, maintainable code, continuously learning new technologies, and building software that is efficient, scalable, and user-focused.
+
+
               </p>
             </div>
           </div>
@@ -77,8 +127,14 @@ const About = () => {
             <div>
               <p className="grid-headtext">My Passion for Coding</p>
               <p className="grid-subtext">
-                I love solving problems and building things through code. Programming isn&apos;t just my
-                profession—it&apos;s my passion. I enjoy exploring new technologies, and enhancing my skills.
+               ## 💙 My Passion for Coding
+
+Coding is more than just writing lines of code for me—it's a way of thinking, creating, and solving real-world problems. 🚀 I genuinely enjoy breaking down complex challenges into simple, efficient, and scalable solutions, whether it's solving Data Structures & Algorithms problems, developing full-stack web applications, or exploring system design concepts.
+
+I'm always excited to learn new technologies, experiment with modern development tools, and continuously improve my skills. 📚 Every project I build and every problem I solve helps me grow as a developer while strengthening my understanding of software engineering principles.
+
+I believe that great software is built through curiosity, consistency, and continuous learning. 🌱 That's why I strive to write clean, maintainable, and efficient code while embracing new challenges that push me beyond my comfort zone. My goal is to create impactful applications that not only work efficiently but also provide meaningful value to users. 💡✨
+
               </p>
             </div>
           </div>
